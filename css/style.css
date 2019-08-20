@@ -1,0 +1,150 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E5E5E5;
+  font-family: sf pro display, helvetica, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: sf pro display, helvetica, sans-serif;
+  display: inline-block;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 22px 0px 0px 52px;
+  font-weight: 700;
+  line-height: 120%;
+  font-size: 24px;
+}
+
+h2 {
+  font-family: sf pro display, helvetica, sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: 600;
+  line-height: 120%;
+  font-size: 24px;
+}
+
+h3 {
+  font-family: sf pro display, helvetica, sans-serif;
+  color: #2B2C2D;
+  font-weight: 700;
+  line-height: 120%;
+  font-size: 100%;
+}
+
+h4 {
+  font-family: sf pro display, helvetica, sans-serif;
+  text-align: left;
+  color: #2B2C2D;
+  font-weight: 700;
+  line-height: 120%;
+  font-size: 14px;
+}
+
+h5 {
+  font-family: sf pro display, helvetica, sans-serif;
+  color: #2B2C2D;
+  font-weight: 600;
+  line-height: 120%;
+  font-size: 14px;
+  text-align: right;
+}
+
+h6 {
+  font-family: sf pro display, helvetica, sans-serif;
+  color: #FC3D39;
+  font-weight: 600;
+  line-height: 120%;
+  font-size: 14px;
+  text-align: right;
+}
+
+p {
+  font-family: sf pro display, helvetica, sans-serif;
+  text-align: left;
+  color: #2B2C2D;
+  font-weight: 400;
+  line-height: 120%;
+  font-size: 14px;
+  font-style: oblique;
+}
+
+.section {
+  display: inline-block;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width:375px;
+}
+
+.choose-route {
+  display: inline-block;
+  background-color: #2B2C2D;
+  padding: 0px 0px 0px 0px;
+  height: 97px;
+  width: 375px;
+}
+
+.washington-state {
+  background-color: #FC3D39;
+  height: 72px;
+  width: 375px;
+  padding: 24px 0px 0px 0px;
+}
+
+.route-direction {
+  background-color: #FED433;
+  display: inline-block;
+  height: 28px;
+  width: 375px;
+  padding: 5px 0 7px 15px;
+  border-bottom: 1px solid #2B2C2D;
+}
+
+.bus-line {
+  background-color: #FFFFFF;
+  text-align: center;
+  height: 68px;
+  width: 375px;
+  border-bottom: 1px solid #2B2C2D;
+}
+
+.bus-info {
+  display: inline-block;
+  padding: 18px 0px 0px 17px;
+  float: left;
+}
+
+.arrival-time {
+  display: inline-block;
+  padding: 25px 0px 0px 44px;
+}
+
+.status-bar {
+  display: inline-block;
+  background-color: #2B2C2D;
+}
+
+.img {
+  float: left;
+  padding: 16px 0px 0px 15px;
+}
+
+.arrow-left {
+  display: inline-block;
+  color: #FFFFFF;
+  float: left;
+  padding: 20px 0px 0px 21px;
+}
+
+.arrow-right {
+  display: inline-block;
+  color: #2B2C2D;
+  float: right;
+  padding: 26px 21px 0px 0px;
+}
