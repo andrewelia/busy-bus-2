@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  src: url(fonts/SF-Pro-Display-Regular.otf);
+  font-family: sf pro display;
+}
+
 body {
   background-color: #E5E5E5;
   font-family: sf pro display, helvetica, sans-serif;
