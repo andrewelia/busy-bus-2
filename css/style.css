@@ -111,6 +111,24 @@ p {
   border-bottom: 1px solid #2B2C2D;
 }
 
+.reroute {
+  background-color: #FED433;
+  display: inline-block;
+  height: 28px;
+  width: 375px;
+  padding: 2px 0 0px 15px;
+  border-bottom: 1px solid #2B2C2D;
+}
+
+.out-of-service {
+  background-color: #D1D1D6;
+  display: inline-block;
+  height: 28px;
+  width: 375px;
+  padding: 2px 0px 0px 15px;
+  border-bottom: 1px solid #2B2C2D;
+}
+
 .bus-line {
   background-color: #FFFFFF;
   text-align: center;
